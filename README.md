@@ -1,1 +1,1 @@
-# embedded
+embedded_project
